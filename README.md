@@ -143,23 +143,6 @@ module.exports = {
 
 Create new components in the `components/` directory and import them in `app/page.tsx`.
 
-## 🚀 Deployment
-
-### Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Connect your repository to Vercel
-3. Deploy automatically on every push
-
-### Netlify
-
-1. Build the project: `npm run build`
-2. Deploy the `out/` directory
-
-### Other Platforms
-
-The project is compatible with any static hosting platform that supports Next.js.
-
 ## 📝 Available Scripts
 
 - `npm run dev` - Start development server
@@ -260,7 +243,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email hello@admybrand.ai or create an issue in this repository.
+For support, email work.tirthdadhaniya@gmail.com or create an issue in this repository.
 
 ---
 
